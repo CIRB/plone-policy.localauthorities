@@ -1,0 +1,27 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    i18n_domain="policy.localauthorities">
+
+  <five:registerPackage package="." initialize=".initialize" />
+  <include file="profiles.zcml" />
+  <include package="cirb.zopemonitoring" />
+  <include package="cirb.footersitemap" />
+  <include package="collective.ckeditor" />
+  <include package="collective.plonefinder" />
+  <include package="webcouturier.dropdownmenu" />
+  <include package="collective.quickupload" />
+  <include package="collective.js.jqueryui" />
+  <include package="collective.quickupload" />
+  <include package="Products.PloneFormGen" />
+  <include package="Solgema.ContextualContentMenu" />
+  <include package="Solgema.fullcalendar" />
+  <include package="collective.js.colorpicker" />
+  <include package="collective.js.fullcalendar" />
+  <include package="plone.app.jquerytools" />
+  <include package="plone.app.theming" />
+  <include package="Products.LinguaPlone" />
+  <include package="plonetheme.localauthorities" />
+
+</configure>
