@@ -9,6 +9,7 @@
   <include package="cirb.zopemonitoring" />
   <include package="cirb.footersitemap" />
   <include package="collective.ckeditor" />
+  <include package="collective.easyslider" />
   <include package="collective.plonefinder" />
   <include package="webcouturier.dropdownmenu" />
   <include package="collective.quickupload" />
