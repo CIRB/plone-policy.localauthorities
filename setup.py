@@ -45,6 +45,7 @@ setup(name='policy.localauthorities',
           'plone.app.theming',
           'plonetheme.localauthorities'
 
+
       ],
       entry_points="""
       # -*- Entry points: -*-
