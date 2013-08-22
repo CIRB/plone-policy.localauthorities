@@ -3,7 +3,7 @@ Changelog
 1.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add apl.doclegis
 
 
 1.1 (2013-04-15)

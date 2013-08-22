@@ -30,7 +30,7 @@ setup(name='policy.localauthorities',
           'cirb.zopemonitoring',
           # -*- Extra requirements: -*-
           'cirb.footersitemap',
-    	  'collective.ckeditor',
+          'collective.ckeditor',
           'collective.plonefinder',
           'webcouturier.dropdownmenu',
           'collective.easyslider',
@@ -43,9 +43,8 @@ setup(name='policy.localauthorities',
           'collective.js.fullcalendar',
           'plone.app.jquerytools',
           'plone.app.theming',
-          'plonetheme.localauthorities'
-
-
+          'plonetheme.localauthorities',
+          'apl.doclegis',
       ],
       entry_points="""
       # -*- Entry points: -*-
