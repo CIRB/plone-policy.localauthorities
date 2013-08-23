@@ -45,6 +45,7 @@ setup(name='policy.localauthorities',
           'plone.app.theming',
           'plonetheme.localauthorities',
           'apl.doclegis',
+          'collective.stomach',
       ],
       entry_points="""
       # -*- Entry points: -*-

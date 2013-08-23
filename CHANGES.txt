@@ -3,7 +3,7 @@ Changelog
 1.1.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.stomach
 
 
 1.1.1 (2013-08-22)
